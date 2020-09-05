@@ -1,0 +1,19 @@
+name: AriaNg Page Update
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+  push:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 1
+
+    steps:
+    - name: Repository Dispatch
+      uses: peter-evans/repository-dispatch@v1
+      with:
+        token: ${{ secrets.ACTIONS_PAT }}
+        repository: ${{ secrets.ACTIONS_ROPO }}
+        event-type: AriaNg Page Update
