@@ -1,11 +1,11 @@
 CACHE MANIFEST
 
 CACHE:
-css/aria-ng-56dd3267ba.min.css
+css/aria-ng-1bfa53e627.min.css
 css/bootstrap-3.4.1.min.css
 css/plugins-ccac6fc3fc.min.css
 js/angular-packages-1.6.10.min.js
-js/aria-ng-44d39c5b59.min.js
+js/aria-ng-27e1f92756.min.js
 js/bootstrap-3.4.1.min.js
 js/echarts-common-3.8.5.min.js
 js/jquery-3.3.1.min.js
@@ -20,4 +20,4 @@ NETWORK:
 SETTINGS:
 prefer-online
 
-# hash: 0f23ee43a84eccc28b7c2cc050fa75578ecdf67fb7d5183e14735cd78f30a9af
+# hash: 8a52321dff2f87aac2e789353dc547a5f9f02b872022405c6a6f1b3359b26526
